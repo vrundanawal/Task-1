@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden
+}
+
+.content_one{
+  background-color: #5c06d6;
+  color: white;
+  padding: 10px;
+}
